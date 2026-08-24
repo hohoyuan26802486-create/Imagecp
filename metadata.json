@@ -1,0 +1,6 @@
+{
+  "name": "圖片壓縮與 AI 辨識系統",
+  "description": "前端 Canvas 智慧等比例圖片壓縮工具，支援最大寬度 1200px、品質 0.8 與 1MB 限制驗證，無縫銜接 Gemini AI 影像辨識與高效上傳。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
